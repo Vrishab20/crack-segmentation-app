@@ -1,6 +1,6 @@
 streamlit==1.32.0
-torch==2.5.0
-torchvision==0.22.0
+torch==2.3.0
+torchvision==0.21.0
 albumentations==1.4.3
 opencv-python-headless==4.9.0.80
 matplotlib
